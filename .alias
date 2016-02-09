@@ -15,3 +15,11 @@ alias p="cd ~/Projects"
 alias g="git"
 alias h="history"
 alias j="jobs"
+
+# Homebrew 
+alias bwd="brew doctor"
+alias bwu="brew update"
+alias bwup="brew upgrade"
+alias bwo="brew outdated"
+alias bwc="brew cleanup"
+alias bwcc="brew cask cleanup"
