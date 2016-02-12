@@ -103,6 +103,7 @@ brew cask install --appdir="/Applications" quip
 brew cask install --appdir="/Applications" jdownloader
 brew cask install --appdir="/Applications" kindle
 brew cask install --appdir="/Applications" tunnelblick
+brew cask install --appdir="/Applications" bittorrent-sync 
 
 # Install Required Fonts
 brew tap caskroom/fonts
