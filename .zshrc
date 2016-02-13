@@ -58,6 +58,7 @@ export PATH="/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin"
 
 source $ZSH/oh-my-zsh.sh
 source ~/.alias
+source /usr/local/opt/chruby/share/chruby/chruby.sh
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
