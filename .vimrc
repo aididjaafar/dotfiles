@@ -181,8 +181,8 @@ filetype plugin indent on     " required!
 
 " Color theme (drawing from altercation/vim-colors-solarized Bundle)
 syntax enable
-"set background=dark
-colorscheme badwolf 
+set background=dark
+colorscheme solarized
 
 " Make the gutters darker than the background.
 let g:badwolf_darkgutter = 1
@@ -207,6 +207,8 @@ let g:syntastic_auto_jump=0
 let g:syntastic_auto_loc_list=1
 "don't care about warnings
 let g:syntastic_quiet_messages=0
+"dont let syntastic check on quit
+let g:syntastic_check_on_wq = 0
 
 " Coffee Script Compilation
 " Compile the current file into a vertcally split screen

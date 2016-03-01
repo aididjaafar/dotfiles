@@ -61,6 +61,7 @@ source ~/.alias
 source /usr/local/opt/chruby/share/chruby/chruby.sh
 source /usr/local/share/chruby/chruby.sh
 source /usr/local/share/chruby/auto.sh
+source /usr/local/share/zsh/site-functions/_aws
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8

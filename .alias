@@ -17,6 +17,7 @@ alias h="history"
 alias j="jobs"
 
 # Homebrew 
+alias bwl="brew list"
 alias bwd="brew doctor"
 alias bwu="brew update"
 alias bwup="brew upgrade"
